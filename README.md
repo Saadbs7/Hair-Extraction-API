@@ -19,6 +19,7 @@ This Python API allows users to upload images, from which it extracts hair using
 ## API Endpoints:
 
 **POST /HairExtraction/upload:** Uploads the user's image for hair extraction.
+
 **GET /HairExtraction/download:** Retrieves the extracted hair region for display purposes.
 
 ## Requirements:
