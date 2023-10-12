@@ -1,4 +1,4 @@
-# Habbir Extraction API
+# Hair Extraction API
 ## Description:
 This Python API allows users to upload images, from which it extracts hair using advanced computer vision techniques. The extracted hair region is then displayed to the user. It's a powerful tool for image-processing applications, especially in the beauty and fashion industries.
 
