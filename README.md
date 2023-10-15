@@ -3,7 +3,7 @@
 This Python API allows users to upload images, from which it extracts hair using advanced computer vision techniques. The extracted hair region is then displayed to the user. It's a powerful tool for image-processing applications, especially in the beauty and fashion industries.
 
 ## Features:
-
+ 
 **User-Friendly:** Easy-to-use API with straightforward image upload functionality.
 
 **Hair Extraction:** Utilizes [FaceParsing-BiSeNet model](https://github.com/GithubRealFan/HairColorChange/commits?author=GithubRealFan) to accurately extract hair from the provided images.
